@@ -20,3 +20,5 @@ and hence you need to have username and password to bypass, read rules to get th
 6. start using :)
 
 V.1 includes only instagram
+
+You need to have a numlook api key to use Terminal Phone check option, go to https://www.numlookapi.com to get hour api key 
