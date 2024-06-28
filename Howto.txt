@@ -1,0 +1,22 @@
+Hello user, this is the Author of the Program (Social Footprint) ,this is my first project in python and i usually try to develope new tools for Terminal and Linux operating systems so that I can provide efficiency in Penetration testing, Ethical Hacking, my goal is to make more programs specially for Linux and Termux. 
+Do not use this tool for illegal activities, i will not take any responsibilty if you use this tool to hack into individual's privacy,
+• To use this tool you need to copy the path of the Chrome browser
+• To bypass the login, username:socialfootprint 
+and password:devpythonraz
+
+Steps to run the Social-Footprint
+
+1. you need to install python/python2/python3 respectively if you are using Temux,Linux,or MacOS 
+
+2. run as (python2 Social-Footprint.py)
+
+3. you will get an option pop up saying whether you want to read rules first or start the program
+
+4. choose 1, if you want to read rules, because it is important to know the username and the password to bypass the logion.
+
+5. choose 2, if you want to use Social-Footprint
+and hence you need to have username and password to bypass, read rules to get the login credentials
+
+6. start using :)
+
+V.1 includes only instagram
