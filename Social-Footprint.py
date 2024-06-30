@@ -1,4 +1,4 @@
-limport loginprog
+import loginprog
 import sys
 from colorama import Fore
 import mechanism as mec
